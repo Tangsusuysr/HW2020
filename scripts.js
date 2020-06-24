@@ -101,7 +101,7 @@ function renderTaskCtrlBar(tasks,taskIdx){
    ctrlbarE1.append(downE1);
 
    let  downE2 = document.createElement("button");
-   downE2.innerText = "VIP";
+   downE2.innerText = "✰";
    downE2.onclick = () =>{
     //
  };
